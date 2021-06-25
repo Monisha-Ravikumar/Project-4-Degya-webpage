@@ -1,0 +1,27 @@
+.bg{
+    background: url(/pic/img/bg4.jpg);
+    width: 100%;
+    height: 150vh;
+    background-repeat: repeat;
+    background-size: 100%;
+}
+.form-container{
+    position: absolute;
+    margin-inline-start: 150vh;
+    border-top: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px opx 10px 0px #000;
+}
+.form-group h1{
+    text-transform: uppercase;
+    font-family: inherit;
+    color: rgb(23, 104, 107);
+    padding-left: 100px;
+    margin-top: 30%;
+    
+}
+.form-group a{
+    color: crimson;
+    text-decoration: none;
+}
